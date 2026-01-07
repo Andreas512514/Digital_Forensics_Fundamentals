@@ -10,5 +10,6 @@ It can be used for both acquisition and analysis purposes.<br><br><br>
 ## Autopsy
 
 [Autopsy](https://www.autopsy.com) is a popular open-source digital forensics platform. An investigator can import an acquired disk image into this tool, and the tool will conduct an extensive analysis of the image.
-It offers various features during image analysis, including keyword search, deleted file recovery, file metadata, extension mismatch detection, and many more.<br><br><br>
+It offers various features during image analysis, including keyword search, deleted file recovery, file metadata, extension mismatch detection, and many more.
 
+![Autopsy](https://github.com/Andreas512514/Digital_Forensics_Fundamentals/blob/main/Screenshot%202026-01-07%20230654.png)<br><br><br>
