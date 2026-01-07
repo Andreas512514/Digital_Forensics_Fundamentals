@@ -19,4 +19,20 @@ It offers various features during image analysis, including keyword search, dele
 
 [DumpIt](https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) offers the utility of taking a memory image from a Windows operating system. This tool creates memory images using a command-line interface and a few commands. The memory image can also be taken in different formats.
 
-![DumpIt](https://github.com/Andreas512514/Digital_Forensics_Fundamentals/blob/main/Screenshot%202026-01-07%20231553.png)
+![DumpIt](https://github.com/Andreas512514/Digital_Forensics_Fundamentals/blob/main/Screenshot%202026-01-07%20231553.png)<br><br><br>
+
+
+## Volatility
+
+[Volatility](https://volatilityfoundation.org/) is a powerful open-source tool for analyzing memory images. It offers some extremely useful plugins. Each artifact can be analyzed using a specific plugin. This tool supports various operating systems, including Windows, Linux, macOS, and Android.
+
+![Volatility](https://github.com/Andreas512514/Digital_Forensics_Fundamentals/blob/main/Screenshot%202026-01-07%20232021.png)
+
+
+
+
+
+
+
+
+
