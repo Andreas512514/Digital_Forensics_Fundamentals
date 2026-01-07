@@ -13,3 +13,10 @@ It can be used for both acquisition and analysis purposes.<br><br><br>
 It offers various features during image analysis, including keyword search, deleted file recovery, file metadata, extension mismatch detection, and many more.
 
 ![Autopsy](https://github.com/Andreas512514/Digital_Forensics_Fundamentals/blob/main/Screenshot%202026-01-07%20230654.png)<br><br><br>
+
+
+## DumpIt
+
+[DumpIt](https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) offers the utility of taking a memory image from a Windows operating system. This tool creates memory images using a command-line interface and a few commands. The memory image can also be taken in different formats.
+
+![DumpIt](https://github.com/Andreas512514/Digital_Forensics_Fundamentals/blob/main/Screenshot%202026-01-07%20231553.png)
